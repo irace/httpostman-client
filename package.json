@@ -1,0 +1,9 @@
+{
+  "name": "httpostman-client",
+  "version": "0.1.0",
+  "bin": "./cli.js",
+  "dependencies": {
+    "request": "2.53.0",
+    "commander": "2.6.0"
+  }
+}
